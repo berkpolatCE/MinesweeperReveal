@@ -1,5 +1,5 @@
 # Minesweeper Revealer
-This project is a simple program that reveals the mines in the classic Minesweeper game. It reads the memory of the Minesweeper process to display the location of mines directly in the console. The graphical user interface (GUI) is built using C++.
+This project is a simple program that reveals the mines in the classic Minesweeper game. It reads the memory of the Minesweeper process to display the location of mines directly in the console. The program is built using C++.
 
 ## Features
 
